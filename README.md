@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 La carte routière du monde
+L'application Chess.com
 
 ```
 
